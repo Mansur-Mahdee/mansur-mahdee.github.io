@@ -1,7 +1,7 @@
 ![headshot](https://github.com/user-attachments/assets/7d0d663d-2bde-4dae-afb6-2442bb3a9e9b)
 # Mansur Mahdee
 
-###Education: 
+###Education 
 Hunter College
 Bachelor in Computer Science
 
