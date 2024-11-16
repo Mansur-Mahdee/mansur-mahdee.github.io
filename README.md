@@ -10,7 +10,7 @@ I'm a passionate software engineer and data scientist with a love for open-sourc
 ###Resume: [MANSUR-MAHDEE-RESUME.pdf](https://github.com/user-attachments/files/17783557/MANSUR-MAHDEE-RESUME.pdf)
 
 🚀 **Currently working on:**  
-- Improving my [Hugging Face Story Maker]([https://huggingface.co/username/your-huggingface-repo](https://huggingface.co/spaces/mahdee987/MS-GPT))  
+- Improving my [Hugging Face Story Maker](https://huggingface.co/spaces/mahdee987/MS-GPT)  
 - Building a **movie query system** using [RAG](https://colab.research.google.com/drive/1WE18iVHm_QODDtgwQ_Y8sbA1VFyEv3vp?usp=sharing)  
 - Learning about [deep learning](https://www.tensorflow.org/)
 
@@ -36,7 +36,7 @@ I'm a passionate software engineer and data scientist with a love for open-sourc
 
 ## 💼 Featured Projects
 
-### 1. [Hugging Face Story Maker]([https://huggingface.co/username/your-huggingface-repo](https://huggingface.co/spaces/mahdee987/MS-GPT))
+### 1. [Hugging Face Story Maker](https://huggingface.co/spaces/mahdee987/MS-GPT)
 Developed an AI-powered application that generates creative stories based on user prompts.
 
 - **Tech Stack**: Python, Hugging Face, Transformers, Gradio, Streamlit
