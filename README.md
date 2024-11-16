@@ -5,7 +5,7 @@
 Hunter College
 Bachelor in Computer Science
 
-###Resume: [MANSUR-MAHDEE-RESUME.pdf](https://github.com/user-attachments/files/17251627/MANSUR-MAHDEE-RESUME.pdf)
+###Resume: [MANSUR-MAHDEE-RESUME.pdf](https://github.com/user-attachments/files/17783557/MANSUR-MAHDEE-RESUME.pdf)
 
 ###Linkedin: https://www.linkedin.com/in/mansur-mahdee-880204231/
 
