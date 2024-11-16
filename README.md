@@ -1,9 +1,7 @@
-# Mansur Mahdee
-
+# Hello, I'm Mansur Mahdee. Welcome to my profile! 👋
 ###Education 
 Hunter College
 Bachelor in Computer Science
-# Hello, I'm Mansur Mahdee. Welcome to my profile! 👋
 
 I'm a passionate software engineer and data scientist with a love for open-source and learning new technologies. I work on projects that range from machine learning to software development, and I love sharing my code with the community.
 
