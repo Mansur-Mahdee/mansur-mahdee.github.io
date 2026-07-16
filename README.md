@@ -20,7 +20,7 @@ My interests include:
 
 ## 📄 Resume
 
-📄 [MANSUR-MAHDEE-RESUME.pdf](https://mansur-mahdee.github.io/Resume%20-%20Copy.pdf)
+📄 [MANSUR-MAHDEE-RESUME.pdf](https://mansur-mahdee.github.io/MM-Resume.pdf)
 
 ---
 
