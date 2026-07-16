@@ -1,88 +1,206 @@
-# Hello, I'm Mansur Mahdee. Welcome to my profile! 👋
-###Education 
-Hunter College
-Bachelor in Computer Science
+# Hello, I'm Mansur Mahdee 👋
 
-I'm a passionate software engineer and data scientist with a love for open-source and learning new technologies. I work on projects that range from machine learning to software development, and I love sharing my code with the community.
+## About Me
 
-###Resume: [MANSUR-MAHDEE-RESUME.pdf](https://github.com/user-attachments/files/17783557/MANSUR-MAHDEE-RESUME.pdf)
+🎓 **B.A. in Computer Science**  
+Hunter College, City University of New York (CUNY)
 
-🚀 **Currently working on:**  
-- Improving my [Hugging Face Story Maker](https://huggingface.co/spaces/mahdee987/MS-GPT)  
-- Building a **movie query system** using [RAG](https://colab.research.google.com/drive/1WE18iVHm_QODDtgwQ_Y8sbA1VFyEv3vp?usp=sharing)  
-- Learning about [deep learning](https://www.tensorflow.org/)
+I'm Mansur, a Computer Science graduate from Hunter College interested in using artificial intelligence and data analytics to solve healthcare problems. My experience at Mount Sinai Hospital, combined with projects in accessibility and digital health, has inspired me to pursue Health Informatics and build technology that improves patient care and public health.
+
+My interests include:
+
+- 🏥 Health Informatics
+- 📊 Healthcare Data Analytics
+- 🤖 Artificial Intelligence & Machine Learning
+- 👁️ Computer Vision
+- 📱 Digital Health Applications
+- ☁️ Cloud Computing
 
 ---
 
-## 🔧 Technologies & Tools
+## 📄 Resume
 
-### 🧑‍💻 Languages:
+📄 [MANSUR-MAHDEE-RESUME.pdf](https://github.com/user-attachments/files/17783557/MANSUR-MAHDEE-RESUME.pdf)
+
+---
+
+## 🚀 Current Focus
+
+- Building AI-powered healthcare applications
+- Exploring Health Informatics and healthcare data analytics
+- Learning advanced Deep Learning and Computer Vision
+- Developing secure backend systems for digital health platforms
+- Expanding my knowledge of cloud technologies with AWS
+
+---
+
+# 🛠 Technical Skills
+
+### Programming Languages
+
 - Python
-- C++
-- JAVA
-- C
 - SQL
+- Java
+- C++
+- C
 - PHP
 
-### 🚀 Tools & Frameworks:
-- TensorFlow, pytorch, gradio, streamlit
+### Data Science & Machine Learning
 
-### 📊 Data Science & Machine Learning:
-- Scikit-learn, numoy, Matplotlib, Jupyter
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- Computer Vision
+- Data Visualization
+- Jupyter Notebook
 
----
+### Backend & Cloud
 
-## 💼 Featured Projects
+- Node.js
+- PostgreSQL
+- REST APIs
+- AWS
+- Docker
+- Git
 
-### 1. [Hugging Face Story Maker](https://huggingface.co/spaces/mahdee987/MS-GPT)
-Developed an AI-powered application that generates creative stories based on user prompts.
+### Healthcare & Analytics
 
-- **Tech Stack**: Python, Hugging Face, Transformers, Gradio, Streamlit
-
-### 2. [RAG based movie query system](https://colab.research.google.com/drive/1WE18iVHm_QODDtgwQ_Y8sbA1VFyEv3vp?usp=sharing)
-Implemented a Retrieval-Augmented Generation (RAG) system to answer specific queries about
-movies.
-
-- **Tech Stack**: Python, TensorFlow, Google Colab, RAG
-
----
-
-  
-
-## 🌱 I’m currently learning...
-
-- **Deep Learning**: Exploring advanced neural networks, CNNs, and GANs.
-- **Web Development**: Mastering React and exploring back-end technologies like Node.js and Express.
-- **Cloud Computing**: Working with AWS to deploy machine learning models.
+- REDCap
+- Tableau
+- ETL
+- Dashboard Development
+- Data Quality Assurance
+- Healthcare Data Management
 
 ---
 
-## 📫 Get in Touch
+# 💼 Featured Projects
 
-- **LinkedIn**: [Mansur Mahdee](https://www.linkedin.com/in/mansur-mahdee-880204231/)
-- **Github**:[Mansur Mahdee](https://github.com/Mansur-Mahdee)
+## 🦯 Blind Spot
 
----
+🔗 https://github.com/Dewiin/blind-spot
 
-## 💬 Let's Connect!
+AI-powered assistive technology designed to improve accessibility for visually impaired individuals through real-time scene understanding.
 
-I'm always open to collaborating on interesting projects or chatting about tech and programming. Don't hesitate to reach out!
+**Highlights**
 
----
+- Computer Vision
+- Gemini AI
+- Speech Synthesis
+- Obstacle Detection
+- Accessibility Technology
 
-### ⚡ Fun Facts
+**Tech Stack**
 
-- I'm a huge fan of AI.
-- I love learning new programming languages.
-- I occasionally contribute to Hugingface and other open-source communities.
-- I enjoy giving tech talks and attending conferences.
-
----
-
-> “The best way to predict the future is to invent it.” — Alan Kay
+Python • Gemini AI • Computer Vision
 
 ---
 
+## 🏷 Label IQ
 
+🔗 https://github.com/Label-IQ-App
 
+Developed secure backend infrastructure supporting digital health workflows and scalable healthcare data management.
 
+**Highlights**
+
+- REST API Development
+- PostgreSQL Database Design
+- Authentication
+- Secure Data Management
+- Backend Engineering
+
+**Tech Stack**
+
+Node.js • PostgreSQL • REST APIs
+
+---
+
+## 💰 Budget Buddy
+
+🔗 https://github.com/ImitationV/capstone
+
+Machine learning application for financial prediction and conversational analytics.
+
+**Highlights**
+
+- Improved prediction accuracy from **50% to 80%**
+- Feature Engineering
+- Machine Learning
+- Conversational AI
+
+**Tech Stack**
+
+Python • Scikit-learn • Machine Learning
+
+---
+
+## 🤝 Experience Highlights
+
+### Mount Sinai Hospital
+
+- Community Health Data Analytics
+- Population Health Reporting
+- Healthcare Dashboard Monitoring
+- Research Coordination
+- Workflow Automation
+- Data Quality Assurance
+
+### CUNY Tech Prep
+
+- Machine Learning
+- AI Development
+- Predictive Analytics
+- Agile Software Development
+
+### Movement Vault
+
+- Mobile Health Application Development
+- Secure Backend Systems
+- Healthcare Data Management
+- REST API Development
+
+---
+
+# 🌱 Currently Learning
+
+- Health Informatics
+- Healthcare Data Standards
+- Deep Learning
+- Computer Vision
+- AWS Cloud Services
+- Large Language Models
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/mansur-mahdee-880204231/
+
+💻 GitHub  
+https://github.com/Mansur-Mahdee
+
+🌐 Portfolio  
+https://mansur-mahdee.github.io/
+
+---
+
+## 💬 Open to Collaborate
+
+I'm always interested in collaborating on projects involving:
+
+- Healthcare Technology
+- AI for Social Good
+- Health Informatics
+- Machine Learning
+- Data Analytics
+- Open Source
+
+Feel free to connect!
+
+---
+
+> *"Technology has the power to transform healthcare, and data is at the heart of that transformation."*
