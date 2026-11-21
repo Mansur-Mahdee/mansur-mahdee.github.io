@@ -25,7 +25,7 @@ My interests include:
 
 ## 📄 Resume
 
-📄 [MANSUR-MAHDEE-RESUME.pdf](https://mansur-mahdee.github.io/MM-Resume.pdf)
+📄 [MANSUR-MAHDEE-RESUME.pdf](Mansur_Mahdee_Resume.pdf)
 
 ---
 
