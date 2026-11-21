@@ -5,7 +5,12 @@
 🎓 **B.A. in Computer Science**  
 Hunter College, City University of New York (CUNY)
 
-I'm Mansur, a Computer Science graduate from Hunter College interested in using artificial intelligence and data analytics to solve healthcare problems. My experience at Mount Sinai Hospital, combined with projects in accessibility and digital health, has inspired me to pursue Health Informatics and build technology that improves patient care and public health.
+🎓 **Incoming M.S. in Health Informatics**  
+Downstate Health Sciences University, SUNY | January 2027
+
+I'm Mansur, a Computer Science graduate with a growing focus on healthcare technology, data science, and artificial intelligence. Through my experience at Mount Sinai Hospital, I've worked with healthcare data, REDCap, data analysis, reporting, and program operations, gaining firsthand insight into how technology and data support public health initiatives.
+
+I'm passionate about applying AI, data analytics, and software engineering to solve real-world healthcare challenges. I'm currently developing projects that explore healthcare AI, accessibility technology, and regulatory intelligence, with the goal of building reliable, evidence-driven tools that improve healthcare information, decision-making, and public health.
 
 My interests include:
 
@@ -77,6 +82,22 @@ My interests include:
 ---
 
 # 💼 Featured Projects
+
+## Healthcare Regulatory Intelligence 
+
+https://github.com/Mansur-Mahdee/healthcare-regulatory-intelligence
+
+- Designing and developing an evidence-grounded healthcare regulatory intelligence platform that consolidates authoritative sources, including HIPAA, HHS, OCR, eCFR, and Federal Register publications, into a centralized, continuously updated knowledge system.
+- Architecting an end-to-end document intelligence pipeline for regulatory ingestion, parsing, metadata extraction, version tracking, and change detection, enabling reliable access to current and historical regulatory information.
+- Building a hybrid retrieval and RAG system combining semantic and keyword search, reranking, and context-aware generation to deliver accurate, source-grounded answers with verifiable citations.
+- Engineering citation validation, safety guardrails, and document comparison capabilities to identify regulatory changes, distinguish binding requirements from guidance, and reduce unsupported responses.
+- Developing evaluation workflows and a user-facing application to measure retrieval quality, answer accuracy, citation reliability, and system performance.
+
+**Tech stack**
+
+Python, FastAPI, TypeScript, RAG, NLP, Hybrid Search, Vector Retrieval, Git.
+
+---
 
 ## 🦯 Blind Spot
 
